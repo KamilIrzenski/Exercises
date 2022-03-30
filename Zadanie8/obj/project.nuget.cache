@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gF02WqppCdFcIqj99k7ed7L8othEgQICO8DCV+p1DW1XAMh8jQMI0sinmMiOZre4CQZeQWITD6Z/F+T0hDgIuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kamili\\source\\repos\\Zadania\\Zadanie8\\Zadanie8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kamili\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

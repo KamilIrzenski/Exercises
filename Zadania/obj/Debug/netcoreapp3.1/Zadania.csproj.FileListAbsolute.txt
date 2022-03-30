@@ -1,0 +1,13 @@
+C:\Users\Kamili\source\repos\Zadania\Zadania\bin\Debug\netcoreapp3.1\Zadania.exe
+C:\Users\Kamili\source\repos\Zadania\Zadania\bin\Debug\netcoreapp3.1\Zadania.deps.json
+C:\Users\Kamili\source\repos\Zadania\Zadania\bin\Debug\netcoreapp3.1\Zadania.runtimeconfig.json
+C:\Users\Kamili\source\repos\Zadania\Zadania\bin\Debug\netcoreapp3.1\Zadania.runtimeconfig.dev.json
+C:\Users\Kamili\source\repos\Zadania\Zadania\bin\Debug\netcoreapp3.1\Zadania.dll
+C:\Users\Kamili\source\repos\Zadania\Zadania\bin\Debug\netcoreapp3.1\Zadania.pdb
+C:\Users\Kamili\source\repos\Zadania\Zadania\obj\Debug\netcoreapp3.1\Zadania.csprojAssemblyReference.cache
+C:\Users\Kamili\source\repos\Zadania\Zadania\obj\Debug\netcoreapp3.1\Zadania.AssemblyInfoInputs.cache
+C:\Users\Kamili\source\repos\Zadania\Zadania\obj\Debug\netcoreapp3.1\Zadania.AssemblyInfo.cs
+C:\Users\Kamili\source\repos\Zadania\Zadania\obj\Debug\netcoreapp3.1\Zadania.csproj.CoreCompileInputs.cache
+C:\Users\Kamili\source\repos\Zadania\Zadania\obj\Debug\netcoreapp3.1\Zadania.dll
+C:\Users\Kamili\source\repos\Zadania\Zadania\obj\Debug\netcoreapp3.1\Zadania.pdb
+C:\Users\Kamili\source\repos\Zadania\Zadania\obj\Debug\netcoreapp3.1\Zadania.genruntimeconfig.cache

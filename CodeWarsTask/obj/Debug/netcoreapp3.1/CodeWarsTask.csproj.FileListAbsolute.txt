@@ -1,0 +1,13 @@
+C:\Users\Kamili\source\repos\Zadania\CodeWarsTask\bin\Debug\netcoreapp3.1\CodeWarsTask.exe
+C:\Users\Kamili\source\repos\Zadania\CodeWarsTask\bin\Debug\netcoreapp3.1\CodeWarsTask.deps.json
+C:\Users\Kamili\source\repos\Zadania\CodeWarsTask\bin\Debug\netcoreapp3.1\CodeWarsTask.runtimeconfig.json
+C:\Users\Kamili\source\repos\Zadania\CodeWarsTask\bin\Debug\netcoreapp3.1\CodeWarsTask.runtimeconfig.dev.json
+C:\Users\Kamili\source\repos\Zadania\CodeWarsTask\bin\Debug\netcoreapp3.1\CodeWarsTask.dll
+C:\Users\Kamili\source\repos\Zadania\CodeWarsTask\bin\Debug\netcoreapp3.1\CodeWarsTask.pdb
+C:\Users\Kamili\source\repos\Zadania\CodeWarsTask\obj\Debug\netcoreapp3.1\CodeWarsTask.AssemblyInfoInputs.cache
+C:\Users\Kamili\source\repos\Zadania\CodeWarsTask\obj\Debug\netcoreapp3.1\CodeWarsTask.AssemblyInfo.cs
+C:\Users\Kamili\source\repos\Zadania\CodeWarsTask\obj\Debug\netcoreapp3.1\CodeWarsTask.csproj.CoreCompileInputs.cache
+C:\Users\Kamili\source\repos\Zadania\CodeWarsTask\obj\Debug\netcoreapp3.1\CodeWarsTask.dll
+C:\Users\Kamili\source\repos\Zadania\CodeWarsTask\obj\Debug\netcoreapp3.1\CodeWarsTask.pdb
+C:\Users\Kamili\source\repos\Zadania\CodeWarsTask\obj\Debug\netcoreapp3.1\CodeWarsTask.genruntimeconfig.cache
+C:\Users\Kamili\source\repos\Zadania\CodeWarsTask\obj\Debug\netcoreapp3.1\CodeWarsTask.csprojAssemblyReference.cache

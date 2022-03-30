@@ -1,0 +1,13 @@
+C:\Users\Kamili\source\repos\Zadania\Zadanie3\bin\Debug\netcoreapp3.1\Algorytmy3.exe
+C:\Users\Kamili\source\repos\Zadania\Zadanie3\bin\Debug\netcoreapp3.1\Algorytmy3.deps.json
+C:\Users\Kamili\source\repos\Zadania\Zadanie3\bin\Debug\netcoreapp3.1\Algorytmy3.runtimeconfig.json
+C:\Users\Kamili\source\repos\Zadania\Zadanie3\bin\Debug\netcoreapp3.1\Algorytmy3.runtimeconfig.dev.json
+C:\Users\Kamili\source\repos\Zadania\Zadanie3\bin\Debug\netcoreapp3.1\Algorytmy3.dll
+C:\Users\Kamili\source\repos\Zadania\Zadanie3\bin\Debug\netcoreapp3.1\Algorytmy3.pdb
+C:\Users\Kamili\source\repos\Zadania\Zadanie3\obj\Debug\netcoreapp3.1\Algorytmy3.csprojAssemblyReference.cache
+C:\Users\Kamili\source\repos\Zadania\Zadanie3\obj\Debug\netcoreapp3.1\Algorytmy3.AssemblyInfoInputs.cache
+C:\Users\Kamili\source\repos\Zadania\Zadanie3\obj\Debug\netcoreapp3.1\Algorytmy3.AssemblyInfo.cs
+C:\Users\Kamili\source\repos\Zadania\Zadanie3\obj\Debug\netcoreapp3.1\Algorytmy3.csproj.CoreCompileInputs.cache
+C:\Users\Kamili\source\repos\Zadania\Zadanie3\obj\Debug\netcoreapp3.1\Algorytmy3.dll
+C:\Users\Kamili\source\repos\Zadania\Zadanie3\obj\Debug\netcoreapp3.1\Algorytmy3.pdb
+C:\Users\Kamili\source\repos\Zadania\Zadanie3\obj\Debug\netcoreapp3.1\Algorytmy3.genruntimeconfig.cache

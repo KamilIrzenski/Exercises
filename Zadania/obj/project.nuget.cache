@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "reZuqyJsbrP8MZqqQWj0Sh4rz9O9rjlH+SkZBu6QzXRU57QBZFFjJl32fJ/aX8wrShw5c7DsxXhUsgqyJ2uZJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kamili\\source\\repos\\Zadania\\Zadania\\Nawiasy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kamili\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

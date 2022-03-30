@@ -1,0 +1,13 @@
+C:\Users\Kamili\source\repos\Zadania\Zadanie2\bin\Debug\netcoreapp3.1\ZadaniaNaTablicach.exe
+C:\Users\Kamili\source\repos\Zadania\Zadanie2\bin\Debug\netcoreapp3.1\ZadaniaNaTablicach.deps.json
+C:\Users\Kamili\source\repos\Zadania\Zadanie2\bin\Debug\netcoreapp3.1\ZadaniaNaTablicach.runtimeconfig.json
+C:\Users\Kamili\source\repos\Zadania\Zadanie2\bin\Debug\netcoreapp3.1\ZadaniaNaTablicach.runtimeconfig.dev.json
+C:\Users\Kamili\source\repos\Zadania\Zadanie2\bin\Debug\netcoreapp3.1\ZadaniaNaTablicach.dll
+C:\Users\Kamili\source\repos\Zadania\Zadanie2\bin\Debug\netcoreapp3.1\ZadaniaNaTablicach.pdb
+C:\Users\Kamili\source\repos\Zadania\Zadanie2\obj\Debug\netcoreapp3.1\ZadaniaNaTablicach.csprojAssemblyReference.cache
+C:\Users\Kamili\source\repos\Zadania\Zadanie2\obj\Debug\netcoreapp3.1\ZadaniaNaTablicach.AssemblyInfoInputs.cache
+C:\Users\Kamili\source\repos\Zadania\Zadanie2\obj\Debug\netcoreapp3.1\ZadaniaNaTablicach.AssemblyInfo.cs
+C:\Users\Kamili\source\repos\Zadania\Zadanie2\obj\Debug\netcoreapp3.1\ZadaniaNaTablicach.csproj.CoreCompileInputs.cache
+C:\Users\Kamili\source\repos\Zadania\Zadanie2\obj\Debug\netcoreapp3.1\ZadaniaNaTablicach.dll
+C:\Users\Kamili\source\repos\Zadania\Zadanie2\obj\Debug\netcoreapp3.1\ZadaniaNaTablicach.pdb
+C:\Users\Kamili\source\repos\Zadania\Zadanie2\obj\Debug\netcoreapp3.1\ZadaniaNaTablicach.genruntimeconfig.cache

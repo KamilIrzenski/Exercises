@@ -1,0 +1,16 @@
+C:\Users\Kamili\source\repos\Zadania\Linq\bin\Debug\netcoreapp3.1\Linq.exe
+C:\Users\Kamili\source\repos\Zadania\Linq\bin\Debug\netcoreapp3.1\Linq.deps.json
+C:\Users\Kamili\source\repos\Zadania\Linq\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.json
+C:\Users\Kamili\source\repos\Zadania\Linq\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.dev.json
+C:\Users\Kamili\source\repos\Zadania\Linq\bin\Debug\netcoreapp3.1\Linq.dll
+C:\Users\Kamili\source\repos\Zadania\Linq\bin\Debug\netcoreapp3.1\Linq.pdb
+C:\Users\Kamili\source\repos\Zadania\Linq\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Kamili\source\repos\Zadania\Linq\obj\Debug\netcoreapp3.1\Linq.csprojAssemblyReference.cache
+C:\Users\Kamili\source\repos\Zadania\Linq\obj\Debug\netcoreapp3.1\Linq.AssemblyInfoInputs.cache
+C:\Users\Kamili\source\repos\Zadania\Linq\obj\Debug\netcoreapp3.1\Linq.AssemblyInfo.cs
+C:\Users\Kamili\source\repos\Zadania\Linq\obj\Debug\netcoreapp3.1\Linq.csproj.CoreCompileInputs.cache
+C:\Users\Kamili\source\repos\Zadania\Linq\obj\Debug\netcoreapp3.1\Linq.csproj.CopyComplete
+C:\Users\Kamili\source\repos\Zadania\Linq\obj\Debug\netcoreapp3.1\Linq.dll
+C:\Users\Kamili\source\repos\Zadania\Linq\obj\Debug\netcoreapp3.1\Linq.pdb
+C:\Users\Kamili\source\repos\Zadania\Linq\obj\Debug\netcoreapp3.1\Linq.genruntimeconfig.cache
+C:\Users\Kamili\source\repos\Zadania\Linq\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

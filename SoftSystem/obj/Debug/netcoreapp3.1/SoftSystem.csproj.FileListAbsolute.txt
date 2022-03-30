@@ -1,0 +1,13 @@
+C:\Users\Kamili\source\repos\Zadania\SoftSystem\bin\Debug\netcoreapp3.1\SoftSystem.exe
+C:\Users\Kamili\source\repos\Zadania\SoftSystem\bin\Debug\netcoreapp3.1\SoftSystem.deps.json
+C:\Users\Kamili\source\repos\Zadania\SoftSystem\bin\Debug\netcoreapp3.1\SoftSystem.runtimeconfig.json
+C:\Users\Kamili\source\repos\Zadania\SoftSystem\bin\Debug\netcoreapp3.1\SoftSystem.runtimeconfig.dev.json
+C:\Users\Kamili\source\repos\Zadania\SoftSystem\bin\Debug\netcoreapp3.1\SoftSystem.dll
+C:\Users\Kamili\source\repos\Zadania\SoftSystem\bin\Debug\netcoreapp3.1\SoftSystem.pdb
+C:\Users\Kamili\source\repos\Zadania\SoftSystem\obj\Debug\netcoreapp3.1\SoftSystem.csprojAssemblyReference.cache
+C:\Users\Kamili\source\repos\Zadania\SoftSystem\obj\Debug\netcoreapp3.1\SoftSystem.AssemblyInfoInputs.cache
+C:\Users\Kamili\source\repos\Zadania\SoftSystem\obj\Debug\netcoreapp3.1\SoftSystem.AssemblyInfo.cs
+C:\Users\Kamili\source\repos\Zadania\SoftSystem\obj\Debug\netcoreapp3.1\SoftSystem.csproj.CoreCompileInputs.cache
+C:\Users\Kamili\source\repos\Zadania\SoftSystem\obj\Debug\netcoreapp3.1\SoftSystem.dll
+C:\Users\Kamili\source\repos\Zadania\SoftSystem\obj\Debug\netcoreapp3.1\SoftSystem.pdb
+C:\Users\Kamili\source\repos\Zadania\SoftSystem\obj\Debug\netcoreapp3.1\SoftSystem.genruntimeconfig.cache

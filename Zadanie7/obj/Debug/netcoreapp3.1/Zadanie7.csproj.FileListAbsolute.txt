@@ -1,0 +1,13 @@
+C:\Users\Kamili\source\repos\Zadania\Zadanie7\bin\Debug\netcoreapp3.1\Zadanie7.exe
+C:\Users\Kamili\source\repos\Zadania\Zadanie7\bin\Debug\netcoreapp3.1\Zadanie7.deps.json
+C:\Users\Kamili\source\repos\Zadania\Zadanie7\bin\Debug\netcoreapp3.1\Zadanie7.runtimeconfig.json
+C:\Users\Kamili\source\repos\Zadania\Zadanie7\bin\Debug\netcoreapp3.1\Zadanie7.runtimeconfig.dev.json
+C:\Users\Kamili\source\repos\Zadania\Zadanie7\bin\Debug\netcoreapp3.1\Zadanie7.dll
+C:\Users\Kamili\source\repos\Zadania\Zadanie7\bin\Debug\netcoreapp3.1\Zadanie7.pdb
+C:\Users\Kamili\source\repos\Zadania\Zadanie7\obj\Debug\netcoreapp3.1\Zadanie7.AssemblyInfoInputs.cache
+C:\Users\Kamili\source\repos\Zadania\Zadanie7\obj\Debug\netcoreapp3.1\Zadanie7.AssemblyInfo.cs
+C:\Users\Kamili\source\repos\Zadania\Zadanie7\obj\Debug\netcoreapp3.1\Zadanie7.csproj.CoreCompileInputs.cache
+C:\Users\Kamili\source\repos\Zadania\Zadanie7\obj\Debug\netcoreapp3.1\Zadanie7.dll
+C:\Users\Kamili\source\repos\Zadania\Zadanie7\obj\Debug\netcoreapp3.1\Zadanie7.pdb
+C:\Users\Kamili\source\repos\Zadania\Zadanie7\obj\Debug\netcoreapp3.1\Zadanie7.genruntimeconfig.cache
+C:\Users\Kamili\source\repos\Zadania\Zadanie7\obj\Debug\netcoreapp3.1\Zadanie7.csprojAssemblyReference.cache

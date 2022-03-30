@@ -1,0 +1,13 @@
+C:\Users\Kamili\source\repos\Zadania\Zadanie4\bin\Debug\netcoreapp3.1\ZadaniaNaStringach.exe
+C:\Users\Kamili\source\repos\Zadania\Zadanie4\bin\Debug\netcoreapp3.1\ZadaniaNaStringach.deps.json
+C:\Users\Kamili\source\repos\Zadania\Zadanie4\bin\Debug\netcoreapp3.1\ZadaniaNaStringach.runtimeconfig.json
+C:\Users\Kamili\source\repos\Zadania\Zadanie4\bin\Debug\netcoreapp3.1\ZadaniaNaStringach.runtimeconfig.dev.json
+C:\Users\Kamili\source\repos\Zadania\Zadanie4\bin\Debug\netcoreapp3.1\ZadaniaNaStringach.dll
+C:\Users\Kamili\source\repos\Zadania\Zadanie4\bin\Debug\netcoreapp3.1\ZadaniaNaStringach.pdb
+C:\Users\Kamili\source\repos\Zadania\Zadanie4\obj\Debug\netcoreapp3.1\ZadaniaNaStringach.csprojAssemblyReference.cache
+C:\Users\Kamili\source\repos\Zadania\Zadanie4\obj\Debug\netcoreapp3.1\ZadaniaNaStringach.AssemblyInfoInputs.cache
+C:\Users\Kamili\source\repos\Zadania\Zadanie4\obj\Debug\netcoreapp3.1\ZadaniaNaStringach.AssemblyInfo.cs
+C:\Users\Kamili\source\repos\Zadania\Zadanie4\obj\Debug\netcoreapp3.1\ZadaniaNaStringach.csproj.CoreCompileInputs.cache
+C:\Users\Kamili\source\repos\Zadania\Zadanie4\obj\Debug\netcoreapp3.1\ZadaniaNaStringach.dll
+C:\Users\Kamili\source\repos\Zadania\Zadanie4\obj\Debug\netcoreapp3.1\ZadaniaNaStringach.pdb
+C:\Users\Kamili\source\repos\Zadania\Zadanie4\obj\Debug\netcoreapp3.1\ZadaniaNaStringach.genruntimeconfig.cache

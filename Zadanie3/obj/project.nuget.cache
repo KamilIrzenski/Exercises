@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YA5Ik6dB4E/69i9HZrA7ptlK0pnTHBj+sOzTFYJJj4s+PLeq0+SXMKJGLRyiR1o6uzbna4sURvmCBKmdr0T89Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kamili\\source\\repos\\Zadania\\Zadanie3\\Algorytmy3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kamili\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
